@@ -1,0 +1,5 @@
+CATEGORY: EMOTIONS
+Files: 1  |  Commands: 5
+
+[feelings.js]
+  .feelings  .emotion  .mood  .comfort  .affirmation

@@ -1,0 +1,5 @@
+CATEGORY: LOVE
+Files: 1  |  Commands: 5
+
+[love-commands.js]
+  .love  .hug  .lovemeter  .crush  .ship

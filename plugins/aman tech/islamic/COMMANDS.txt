@@ -1,0 +1,20 @@
+CATEGORY: ISLAMIC
+Files: 6  |  Commands: 29
+
+[api-master-pack.js]
+  .quransearch  .hijri2  .namaz2  .hadith2  .ayat2
+
+[islamic-aman-30-pack.js]
+  
+
+[islamic-extra-aman.js]
+  .wuduguide  .salahguide  .islamicquiz  .gooddeeds  .islamicmonths
+
+[new-pack.js]
+  .namaz  .dua
+
+[ultimate-pack.js]
+  .surah  .allahname  .ramadancount  .allnamaz  .duacat  .zikrstart  .zikr  .islamquiz  .kalima  .namemeaning  .islamicevent
+
+[useful-pack.js]
+  .nextnamaz  .hijri  .islamicfact  .ayat  .dailyhadith  .tasbeeh

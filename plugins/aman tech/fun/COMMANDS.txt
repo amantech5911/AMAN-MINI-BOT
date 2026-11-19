@@ -1,0 +1,35 @@
+CATEGORY: FUN
+Files: 11  |  Commands: 78
+
+[amanjagar.js]
+  .amanjagar  .lovebhai
+
+[amankijan.js]
+  .amankijan
+
+[anime.js]
+  .anime  .randomanime  .animegif  .animetag  .neko  .waifu  .husbando
+
+[extra-pack.js]
+  .quiz  .wordchain  .riddle  .pickup  .punjabi  .meme  .dare2  .truth2  .wouldyou  .duel  .compliment2  .insult  .goodmorning  .goodnight  .shayari2  .joke2  .quote2  .fortune
+
+[fresh-pack.js]
+  .zodiacsign  .theme  .randompic  .dog  .cat  .fox  .panda  .advice  .chucknorris  .yesno  .rletter  .color
+
+[fun-tools.js]
+  .coinflip  .dice  .8ball  .joke  .choose
+
+[group-fun-pack.js]
+  .truth  .dare  .wouldyourather  .neverhave  .ship  .gaymeter  .rate  .hack  .slap  .hug  .kiss  .punch  .kill
+
+[jarvis-voice.js]
+  .jarvis  .raju
+
+[new-pack.js]
+  .tagme  .random  .nickname  .age  .howgay  .roast  .compliment  .slogan  .livescore
+
+[ultimate-pack.js]
+  .traveltip  .moon  .abcd  .count123
+
+[viral-pack.js]
+  .typingtest  .reactiontest  .mathspeed  .memorygame  .trivia

@@ -1,0 +1,8 @@
+CATEGORY: SETTINGS
+Files: 2  |  Commands: 10
+
+[all-settings.js]
+  .autorecording  .autotyping .autoread  .autoviewsview  .autolikestatus  .mode  .setprefix  .ownername  .ownernumber
+
+[autoreact-chat.js]
+  .autoreact

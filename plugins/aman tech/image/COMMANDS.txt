@@ -1,0 +1,14 @@
+CATEGORY: IMAGE
+Files: 4  |  Commands: 9
+
+[attp.js]
+  .attp
+
+[fresh-pack.js]
+  .stickerinfo
+
+[new-pack.js]
+  .stickerpack  .blur  .sepia  .flip  .emojimix
+
+[viral-pack.js]
+  .mememaker  .watermark

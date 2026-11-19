@@ -1,0 +1,47 @@
+CATEGORY: OWNER
+Files: 15  |  Commands: 48
+
+[anti-delete.js]
+  .antidelete
+
+[anticall.js]
+  .anti-call
+
+[autobio.js]
+  .autobio
+
+[dltest.js]
+  .dltest
+
+[forwardall-links.js]
+  .forwardall
+
+[gc-setting.js]
+  .kick  .end
+
+[massvote.js]
+  .massvote  .autovote
+
+[new-pack.js]
+  .botstats
+
+[owner-panel-extras.js]
+  .ownerhelp  .bothealth  .pluginscan
+
+[owner-panel-pro.js]
+  .ownerhub  .botpause  .botresume  .maintenance  .botnotice  .broadcast2  .userban  .userunban  .banlist  .sessions  .killall  .logs  .eval2  .memory  .cpuinfo  .sendto  .usagestats  .setprefix  .restart
+
+[power-pack.js]
+  .serverinfo  .say  .lockgroup  .unlockgroup  .setdesc  .setname
+
+[promo-codes.js]
+  .promo  .promolist  .delpromo
+
+[unblock.js]
+  .unblock
+
+[vv.js]
+  .vv
+
+[welcome-pro.js]
+  .setbotpic  .resetbotpic  .setownerpic  .ownerpic  .resetownerpic

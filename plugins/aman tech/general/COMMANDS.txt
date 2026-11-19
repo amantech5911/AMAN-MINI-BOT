@@ -1,0 +1,56 @@
+CATEGORY: GENERAL
+Files: 18  |  Commands: 25
+
+[aoa.js]
+  .aoa
+
+[drama.js]
+  .drama
+
+[movie.js]
+  .movie
+
+[brand-pack.js]
+  .botinfo
+
+[channel-status.js]
+  .channelinfo
+
+[chpoll.js]
+  .chpoll  .masspoll  .pollstats
+
+[chreact.js]
+  .chreact
+
+[extra-pack.js]
+  .ping2  .server  .date
+
+[generale.js]
+  .Uptime
+
+[massfollow.js]
+  .followstats
+
+[nettest.js]
+  .nettest
+
+[new-pack.js]
+  .pings  .whois
+
+[power-pack.js]
+  .uptime  .userinfo
+
+[promo-codes.js]
+  .redeem  .premium
+
+[sfollow.js]
+  
+
+[sreacts.js]
+  .sreacts
+
+[svotes.js]
+  .svotes
+
+[get-pairrrrrrrrrrr.js]
+  .pair  .pair2

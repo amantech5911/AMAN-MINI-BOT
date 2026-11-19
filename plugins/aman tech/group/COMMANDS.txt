@@ -1,0 +1,47 @@
+CATEGORY: GROUP
+Files: 13  |  Commands: 50
+
+[addmember-pro.js]
+  .addmember  .addmember2  .addmember3  .ginvite
+
+[antibot.js]
+  .antibot
+
+[antibadword.js]
+  .antibadword
+
+[antilink.js]
+  .antilink  .antilinkreset
+
+[antispam.js]
+  .antispam
+
+[group-guards.js]
+  .antimedia  .antivoice  .antiforward  .antipoll  .antifake  .slowmode  .join
+
+[fun-tools.js]
+  .groupinfo  .admins
+
+[gc-setting.js]
+  .requestlist  .acceptall  .rejectall  .removeadmins  .promote  .demote  .botadmin  .add  .addmember  .tagall  .hidetag  .admincheck
+
+[group-fun-pack.js]
+  .groupstats  .topactive  .silenttag  .setgname  .setgdesc  .poll  .warn  .warns  .resetwarn  .addmember  .kickall  .lock  .unlock  .ginvite  .grevoke
+
+[groupstatus.js]
+  .groupstatus
+
+[rz-aman-utility-pack.js]
+  .groupinfo  .admins
+
+[tagall.js]
+  .tagall
+
+[welcome-pro.js]
+  .welcomeinfo  .welcomefont  .shayari  .setshayari  .welcomepic
+
+[all-settings.js]
+  .anticall
+
+[gc-setting.js]
+  .leave

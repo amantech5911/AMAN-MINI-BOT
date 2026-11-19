@@ -1,0 +1,17 @@
+CATEGORY: UTILITY
+Files: 5  |  Commands: 8
+
+[antibot.js]
+  
+
+[antilink.js]
+  
+
+[rz-aman-utility-pack.js]
+  .uptime  .botinfo  .jid  .calc  .base64enc  .base64dec  .reverse  .charcount
+
+[status-save-send.js]
+  
+
+[status-saver.js]
+  

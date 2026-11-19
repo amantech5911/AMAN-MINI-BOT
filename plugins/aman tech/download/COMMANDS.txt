@@ -1,0 +1,38 @@
+CATEGORY: DOWNLOAD
+Files: 12  |  Commands: 19
+
+[apk.js]
+  .apk
+
+[moviedl.js]
+  .moviedl
+
+[dramadl.js]
+  .dramadl
+
+[fb.js]
+  .fb
+
+[ig-dl.js]
+  .igdl  .igdl4  .igdl2  .ig3
+
+[play.js]
+  .play
+
+[song.js]
+  .song
+
+[tiktok-pinterest.js]
+  .tiktok  .pinterest
+
+[video.js]
+  .video
+
+[yts.js]
+  .yts
+
+[anime-video-pack.js]
+  .animetrailer
+
+[islamic-cartoon-dl.js]
+  .islamiccartoon  .naatvideo  .islamicvideo  .prophetvideo

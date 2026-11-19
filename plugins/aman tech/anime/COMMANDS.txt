@@ -1,0 +1,11 @@
+CATEGORY: ANIME
+Files: 3  |  Commands: 5
+
+[anime-extra-20.js]
+  
+
+[anime-video-pack.js]
+  
+
+[api-master-pack.js]
+  .animewall  .waifu  .neko  .animequote  .animesearch

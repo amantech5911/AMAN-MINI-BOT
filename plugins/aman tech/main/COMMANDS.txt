@@ -1,0 +1,17 @@
+CATEGORY: MAIN
+Files: 5  |  Commands: 9
+
+[ai.js]
+  .ai  .aireset  .imagine  .aivoice  .summarize
+
+[main-alive.js]
+  .alive
+
+[online.js]
+  .online
+
+[ping.js]
+  .ping
+
+[rz-aman-utility-pack.js]
+  .owner

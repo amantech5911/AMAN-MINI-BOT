@@ -1,0 +1,11 @@
+CATEGORY: SYSTEM
+Files: 3  |  Commands: 7
+
+[allmenu.js]
+  .menu
+
+[carousel-menu.js]
+  .cmenu
+
+[viral-pack.js]
+  .typingcheck  .reactioncheck  .mathcheck  .memorycheck  .triviacheck

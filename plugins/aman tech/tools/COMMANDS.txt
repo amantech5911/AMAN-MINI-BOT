@@ -1,0 +1,86 @@
+CATEGORY: TOOLS
+Files: 28  |  Commands: 111
+
+[age.js]
+  .age
+
+[addmember-pro.js]
+  .checknum
+
+[api-master-pack.js]
+  .webshot  .ip2  .b64  .short2  .genpass
+
+[arcadd.js]
+  .arcadd
+
+[bot-script.js]
+  .botscript
+
+[autochreact.js]
+  .autochreact
+
+[brand-pack.js]
+  .setpp  .removepp  .setbotname  .setstatus  .setall
+
+[carding-report.js]
+  .reportcarding  .reportscamchannel  .reportguide
+
+[channel-power.js]
+  .channelstatus  .chstatimg  .chstatvid  .chstatauto  .chstatsticker  .chstatremind  .chstatforward  .chstatreact  .autoreact-on  .autoreact-off  .channelinfo  .chstatlist  .chstatbulk
+
+[channel-status.js]
+  .channelstatus  .chstatimg  .chstatvid  .chstatsticker  .chstatremind  .chstatforward  .chstatreact  .chstatbulk
+
+[chcomment.js]
+  .chcomment  .channelcomment  .chcom
+
+[delete.js]
+  .delete
+
+[emoji-animations.js]
+  .happy  .heart  .angry  .sad  .shy  .moon  .confused  .hot  .nikal
+
+[extra-pack.js]
+  .calc  .reverse  .uppercase  .lowercase  .length  .tobin  .frombin
+
+[fresh-pack.js]
+  .fakechat  .count  .worldtime  .dayinfo  .countryinfo  .github  .rnum  .password2
+
+[fun-tools.js]
+  .calc
+
+[jarvis-voice.js]
+  .tts  .voices
+
+[power-pack.js]
+  .weather  .iplookup  .shorturl  .translate  .wiki  .qrcode  .genpass  .timer  .remind  .binary  .base64
+
+[scammer-report.js]
+  .reportscam  .report
+
+[sim.js]
+  .sim
+
+[ss.js]
+  .screenshot
+
+[style.js]
+  .style
+
+[tts.js]
+  .tts  .voices
+
+[ultimate-pack.js]
+  .timezone  .capital  .flag  .population  .languages  .airport  .weatherweek  .sunriseset
+
+[unban-appeal.js]
+  .unbanhard  .unban
+
+[useful-commands.js]
+  .define  .unit
+
+[useful-pack.js]
+  .forecast  .currency  .goldrate  .petrol  .replace  .wordcount  .fancytext  .removedup  .sorttext  .randomline  .ascii  .palindrome  .anagram  .morse  .bmi  .waterintake
+
+[viral-pack.js]
+  .chatanalysis  .topwords  .activetime  .todo  .expense  .habit  .remindme
